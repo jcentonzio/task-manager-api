@@ -8,5 +8,9 @@ module Authenticable
     render json: { errors: 'Unauthorized access!'}, status: 401 unless current_user.present?
   end  
 
+  def user_logged_in?
+    current_user.present?
+  end  
+
 end    
 
