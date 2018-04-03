@@ -21,7 +21,6 @@ class Api::V2::SessionsController < ApplicationController
     head 204
   end  
 
-
   private
 
   def sessions_params
