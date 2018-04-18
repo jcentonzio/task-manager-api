@@ -1,0 +1,2 @@
+class TimeForSending < ApplicationRecord
+end

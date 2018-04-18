@@ -1,0 +1,2 @@
+class WhoWillReceiveNewletter < ApplicationRecord
+end

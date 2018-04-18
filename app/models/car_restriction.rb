@@ -1,0 +1,2 @@
+class CarRestriction < ApplicationRecord
+end

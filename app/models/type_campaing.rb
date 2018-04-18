@@ -1,0 +1,2 @@
+class TypeCampaing < ApplicationRecord
+end

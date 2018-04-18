@@ -1,0 +1,2 @@
+class WhenTheNewletter < ApplicationRecord
+end
