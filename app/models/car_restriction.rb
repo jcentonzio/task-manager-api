@@ -1,2 +1,0 @@
-class CarRestriction < ApplicationRecord
-end

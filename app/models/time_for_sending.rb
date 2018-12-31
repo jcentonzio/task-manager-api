@@ -1,2 +1,0 @@
-class TimeForSending < ApplicationRecord
-end

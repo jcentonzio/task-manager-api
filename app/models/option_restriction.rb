@@ -1,2 +1,0 @@
-class OptionRestriction < ApplicationRecord
-end
